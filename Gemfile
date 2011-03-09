@@ -13,3 +13,4 @@ group :test do
 end
 
 gem 'ZenTest'
+gem 'heroku'
